@@ -1,0 +1,12 @@
+#site-navigation.main-navigation {
+	margin-bottom: 0;
+}
+.site-info .copyright-info {
+  padding: 15px 0;
+}
+#footer-links.site-links li a {
+	color: #000000;
+}
+#footer-links.site-links li a:hover {
+	background: transparent;
+}
