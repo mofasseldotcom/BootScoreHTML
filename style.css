@@ -1,6 +1,29 @@
+/*Header CSS*/
 #site-navigation.main-navigation {
 	margin-bottom: 0;
 }
+/*Slider CSS*/
+.carousel-control.left,
+.carousel-control.right {
+	background: transparent;
+}
+.carousel-control.left .fa-angle-left, 
+.carousel-control.right .fa-angle-right {
+  margin-top: -45px;
+  position: absolute;
+  top: 50%;
+  opacity: 0;
+}
+.carousel-control.left:hover .fa-angle-left, 
+.carousel-control.right:hover .fa-angle-right {
+  opacity: 1;
+}
+/*Content CSS*/
+
+
+
+
+/*Footer CSS*/
 .site-info .copyright-info {
   padding: 15px 0;
 }
