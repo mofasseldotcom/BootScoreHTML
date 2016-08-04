@@ -19,11 +19,37 @@
   opacity: 1;
 }
 /*Content CSS*/
+section {
+  padding: 30px 0px;
+}
 
 
-
-
+/*Secondary Aside CSS*/
+.widget-area .widget li {
+  list-style: none;
+}
+.widget-area .widget li a {
+  color: white;
+}
 /*Footer CSS*/
+section#footer-top {
+  background: #000;
+  color: white;
+}
+.graybg {
+  background: #f5f5f5;
+  color: #000000;
+}
+.graybg h2 {
+  color: #000000;
+}
+.blackbg {
+  background: #000000;
+  color: #FFFFFF;
+}
+.blackbg h2 {
+  color: #FFFFFF;
+}
 .site-info .copyright-info {
   padding: 15px 0;
 }
@@ -32,4 +58,10 @@
 }
 #footer-links.site-links li a:hover {
 	background: transparent;
+}
+#services article.service-item {
+  border: 1px solid #cecece;
+  padding: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
