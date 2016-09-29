@@ -1,4 +1,4 @@
-# wpbootscore-html - HTML version of WPBootScore Theme Framework
+# bootscore-html - HTML version of BootScore Theme Framework
 ===
 
 This is a multipurpose Wordpress Starter Theme framework (HTML Version) built using [Underscores](http://underscores.me) and [Bootstrap](http://getbootstrap.com).
@@ -9,7 +9,7 @@ Copy the Folder in your computer and start designing
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? [Please open a new issue](https://github.com/webguymofassel/wpbootscore-html/issues)
+Have a bug or a feature request? [Please open a new issue](https://github.com/webguymofassel/bootscore-html/issues)
 
 ## Contributing
 
