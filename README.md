@@ -1,6 +1,8 @@
 # BootScoreHTML is the HTML version of [BootScore](http://bootscore.com) WordPress Theme Framework
 ===
 
+You can visit this repository output here [BootScoreHTML LIve](https://webguymofassel.github.io/BootScoreHTML)
+
 This is a multipurpose Wordpress Starter Theme framework (HTML Version) built using [Underscores](http://underscores.me) and [Bootstrap](http://getbootstrap.com).
 
 ## Quick start
